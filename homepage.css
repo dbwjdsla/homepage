@@ -199,9 +199,9 @@
 		font-weight: bold;
 	}
 
-	#me tr td :hover {
+	/* #me tr td :hover {
 		box-shadow: 5px 5px 10px 3px gray;
-	}
+	} */
 
 	#me
 	{
